@@ -42,7 +42,7 @@
                                 <path>/LoginRegisterApp</path>
                                 <url>http://35.183.62.240:8090/manager/text</url>
                                         <username>admin</username>
-                                        <password>*******</password>
+                                        <password>adminadmin</password>
                                         <update>true</update>
                                 </configuration>
                         </plugin>
