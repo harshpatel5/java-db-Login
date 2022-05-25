@@ -40,7 +40,7 @@
                                 <version>2.2</version>
                                 <configuration>
                                 <path>/LoginRegisterApp</path>
-                                <url>http://35.183.62.240:8090/manager/text</url>
+                                <url>http://3.99.145.12:8090/manager/text</url>
                                         <username>admin</username>
                                         <password>adminadmin</password>
                                         <update>true</update>
