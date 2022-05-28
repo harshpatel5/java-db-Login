@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class DbUtil {
 	static Connection con=null;
 	static String driver = "com.mysql.cj.jdbc.Driver";
-	static String url = "jdbc:mysql://learnwithprojects-com.cgjldmlqtnkq.ca-central-1.rds.amazonaws.com:3306/learnwithprojectsCom";
+	static String url = "jdbc:mysql://db-project1.cxr6fl7oxtpx.us-west-1.rds.amazonaws.com:3306/learnwithprojectsCom";
 	static String username = "admin";
 	static String password = "welcome1";
 	
